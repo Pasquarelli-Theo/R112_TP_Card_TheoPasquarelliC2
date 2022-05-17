@@ -1,12 +1,11 @@
 
 <template>
   <section class="bg-gray-100">
-    <h1 class="text-center font-bold text-xl bg-indigo-500">TP agence immobilière</h1>
       <header>
         <div class="p-3 mt-5 mb-5 bg-gray-50 flex flex-row justify-between">
           <div>
             <MailOpenIcon class="inline-block w-10"/>
-            <p class="inline-block ml-4 mr-4 text-lg text-blue-600 ">Estatery</p>
+            <h1 class="inline-block ml-4 mr-4 text-lg text-blue-600 ">Estatery</h1>
           </div>
           <MenuAlt4Icon class="inline-block text-right w-8"/>
         </div>
