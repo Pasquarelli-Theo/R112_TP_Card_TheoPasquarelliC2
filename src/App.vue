@@ -2,7 +2,7 @@
 <template>
   <section class="bg-gray-100">
       <header>
-        <div class="p-3 mt-5 mb-5 bg-gray-50 flex flex-row justify-between">
+        <div class="p-3 mb-5 bg-gray-50 flex flex-row justify-between">
           <div>
             <MailOpenIcon class="inline-block w-10"/>
             <h1 class="inline-block ml-4 mr-4 text-lg text-blue-600 ">Estatery</h1>
