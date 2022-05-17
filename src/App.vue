@@ -1,11 +1,11 @@
 
 <template>
-  <section class="bg-gray-100">
+  <section class="bg-indigo-50">
       <header>
-        <div class="p-3 mb-5 bg-gray-50 flex flex-row justify-between">
+        <div class="p-3 mb-5 bg-white flex flex-row justify-between">
           <div>
             <MailOpenIcon class="inline-block w-10"/>
-            <h1 class="inline-block ml-4 mr-4 text-lg text-blue-600 ">Estatery</h1>
+            <h1 class="font-bold inline-block ml-4 mr-4 text-lg text-black ">Estatery</h1>
           </div>
           <MenuAlt4Icon class="inline-block text-right w-8"/>
         </div>
@@ -63,7 +63,7 @@
             <ChevronRightIcon class="inline-block text-right w-8"/>
           </div>
       </main>
-      <footer class="p-3 mt-5 mb-5 bg-gray-50">
+      <footer class="p-3 mt-5 mb-5 bg-white">
           <MailOpenIcon class="inline-block w-10"/>
           <p class="inline-block ml-4 mr-4 text-lg text-blue-600 ">Estatery</p>
         <div class="grid grid-rows-3 grid-flow-col">
